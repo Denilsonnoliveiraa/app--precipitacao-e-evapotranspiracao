@@ -1,0 +1,4 @@
+## Para gerar o app
+python -m streamlit run .\app.py
+
+
